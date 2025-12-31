@@ -32,3 +32,6 @@ if __name__ == "__main__":
 	print("Ano 2026 adicionado com sucesso! 🎉")
 	print("*" * 20)
 
+
+
+
